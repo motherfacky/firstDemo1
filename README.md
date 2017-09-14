@@ -14,4 +14,4 @@
 
 ![](dog.jpg)
 
-[!(https://www.youtube.com/watch?v=IhnUgAaea4M "American Fuck Yeah")
+<https://www.youtube.com/watch?v=IhnUgAaea4M>
