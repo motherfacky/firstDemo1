@@ -7,5 +7,5 @@
 
 
 
-:date
-:smile
+:date:
+:smile:
