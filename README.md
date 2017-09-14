@@ -12,4 +12,4 @@
 
 :smile:
 
-![Dog](dog.jpg"dog")
+![](dog.jpg)
